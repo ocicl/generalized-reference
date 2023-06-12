@@ -1,0 +1,10 @@
+* generalized-reference
+
+Generalized reference over arbitrary structured data for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/thephoeron/generalized-reference.git   |
+| commit  | {"messa  |
+| systems | generalized-reference |
+|---------+-------------------------------------------|
+
