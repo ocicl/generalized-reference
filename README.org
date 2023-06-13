@@ -4,7 +4,7 @@ Generalized reference over arbitrary structured data for Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/thephoeron/generalized-reference.git   |
-| commit  | {"messa  |
+| commit  | 00d0f24  |
 | systems | generalized-reference |
 |---------+-------------------------------------------|
 
